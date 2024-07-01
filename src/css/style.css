@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #DDDACB;
+    background-color: #e0decf;
     margin: 0;
 }
 
@@ -80,10 +80,27 @@ footer img {
     margin: 10px 0;
 }
 
-.title h1, p{
+.container{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.container .title {
+    width: 550px;
+}
+
+.days {
+    margin: 0 50px;
+}
+
+.contact {
+    margin: 0 50px;
+}
+
+.mapid {
+    height: 400px;
+    width: 600px;
 }
 
 ::-webkit-scrollbar {
