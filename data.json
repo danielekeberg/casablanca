@@ -1,0 +1,42 @@
+{
+    "data": [
+      {
+        "id": "4692436-ec9k-4672-a08d-3e3212a215c8",
+        "title": "01 DEN ENKLE",
+        "ingredients": "Ost, tomatsaus, oregano",
+        "priceM": 129,
+        "priseS": 169
+      },
+      {
+        "id": "4692436-ec9k-4672-a08d-3e3243s125c8",
+        "title": "02 DRØMMEN",
+        "ingredients": "Kjøttdeig, mais, paprika",
+        "priceM": 159,
+        "priseS": 249
+      },
+      {
+        "id": "4692436-ec9k-4672-a08d-3e3212a215c8",
+        "title": "03 SNADDER",
+        "ingredients": "Kjøttdeig, bacon, løk og ananas",
+        "priceM": 165,
+        "priseS": 259
+      },
+      {
+        "id": "4692436-ec9k-4672-a08d-3e3212a215c8",
+        "title": "04 KOS",
+        "ingredients": "Ost, tomatsaus, oregano",
+        "priceM": 129,
+        "priseS": 169
+      }
+
+    ],
+    "meta": {
+      "isFirstPage": true,
+      "isLastPage": true,
+      "currentPage": 1,
+      "previousPage": null,
+      "nextPage": null,
+      "pageCount": 1,
+      "totalCount": 2
+    }
+  }
