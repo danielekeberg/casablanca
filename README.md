@@ -10,7 +10,3 @@ The goal of this project is to create a fully functional and visually appealing 
 - Contact page with a contact form and Google Maps integration for location
 - Responsive design for optimal viewing on various devices
 - Accessibility features to ensure the website is usable by everyone
-
-## Technologies Used
-- HTML5
-- CSS3
